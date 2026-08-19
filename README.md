@@ -15,13 +15,23 @@
 
 ---
 
+### 💼 Experience
+
+#### 🏛 Research Intern | USDA Agricultural Research Service (National Sedimentation Lab)
+*May 2026 – August 2026*
+* Built dynamic HEC-HMS watershed models and automated spatial processing workflows for dam networks in the Upper Trinity River Basin.
+* Developed custom ArcPy Python toolboxes (`.pyt`) to extract spatial metadata, Object IDs (`FID`), and National Inventory of Dams IDs (`NID_ID`).
+* Programmed automated scripts to parse CSV metadata, execute coordinate transformations, and inject reservoir stage-storage curves directly into HEC-HMS basin files.
+* Engineered a desktop GUI application to automate project presentations and streamline hydrologic report generation.
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🌊 [HEC-HMS Watershed Modeling & Data Injection Automation](https://github.com/Jedijackster)
 > *Dynamic ArcPy-to-HEC-HMS Spatial Processing Engine*
-* Developed dynamic HEC-HMS watershed models and GIS automation workflows for Upper Trinity River Basin dams.
-* Built custom Python Toolboxes (`.pyt`) to extract Object IDs (`FID`), National Inventory of Dams IDs (`NID_ID`), and spatial metrics.
-* Created scripts to auto-inject dynamic stage-storage curves, reproject geographic coordinates, and inject NID metadata directly into HEC-HMS basin files.
+* Automated extraction and injection of reservoir data from ArcGIS Pro straight into HEC-HMS basin files.
+* Pipeline reprojects geographic coordinates and dynamically configures reservoir elements to eliminate manual setup errors.
 
 #### 🪪 [ID Card Generator](https://github.com/Jedijackster/ID_Generator_Project)
 > *Java Object-Oriented Programming Group Project*
