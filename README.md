@@ -43,13 +43,9 @@
 * Contributed to codebase enhancements, UI fixes, and configuration management for JSBSim flight model files as part of UT Arlington student development.
 
 ---
+### 📊 GitHub Activity
 
-### 📊 GitHub Stats
-
-![Jack's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jedijackster&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jedijackster&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Jedijackster&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📫 Connect With Me
