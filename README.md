@@ -46,10 +46,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jedijackster&show_icons=true&theme=tokyonight&count_private=true" alt="Jack's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedijackster&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="175" />
-</p>
+![Jack's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jedijackster&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jedijackster&layout=compact&theme=tokyonight&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
