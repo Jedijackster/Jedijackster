@@ -42,12 +42,6 @@
 > *Open-Source Graphical Interface Tool for JSBSim Flight Dynamics Models*
 * Contributed to codebase enhancements, UI fixes, and configuration management for JSBSim flight model files as part of UT Arlington student development.
 
----
-### 📊 GitHub Activity
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Jedijackster&theme=tokyonight&column=4)](https://github.com/ryo-ma/github-profile-trophy)
----
-
 ### 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/jack-yohn/](https://www.linkedin.com/in/jack-yohn/)
