@@ -1,7 +1,7 @@
 # Hi there, I'm Jack Yohn 👋
 
 🎓 **Computer Engineering Student @ UT Arlington**  
-🔬 **Focus Areas:** Object-Oriented Software Architecture, Geospatial Data Automation & Systems Simulation  
+🔬 **Focus Areas:** Embedded Systems, Object-Oriented Software Architecture, Geospatial Data Automation & Systems Simulation  
 
 ---
 
@@ -9,9 +9,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,git,github,vscode,linux)](https://skillicons.dev)
 
-* **Languages & Frameworks:** Java, Python, C++, C, Swing/AWT, ArcPy  
+* **Languages & Frameworks:** Python, C++, C, Java, ArcPy  
 * **GIS & Engineering Tools:** ArcGIS Pro, HEC-HMS, Git/GitHub, Linux  
-* **Core Disciplines:** Object-Oriented Programming (OOP), GIS Automation, Hydrologic Modeling  
+* **Core Disciplines:** Embedded Systems, Object-Oriented Programming (OOP), GIS Automation, Hydrologic Modeling  
 
 ---
 
